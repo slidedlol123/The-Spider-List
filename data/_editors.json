@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "LithiumBatterys",
+        "link": "#"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "slided_",
+        "link": "#"
     },
     {
         "role": "helper",
-        "name": "List Helper",
+        "name": "placeholder",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
+        "name": "placeholder",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "dev",
-        "name": "List Coder",
+        "name": "placeholder",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
