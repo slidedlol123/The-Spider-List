@@ -1,22 +1,12 @@
 {
-    "id": 57436521,
-    "name": "test",
-    "author": "nSlided",
+    "id": 108613862,
+    "name": "Spooder",
+    "author": "LithiumBatterys",
     "creators": [ ],
-    "verifier": "nSlided",
-    "verification": "#",
+    "verifier": "LithiumBatterys",
+    "verification": "https://youtu.be/uzmZ7swHKhQ?si=4SlqmEL7SRVoAn27",
     "percentToQualify": "100",
-    "password": "46290",
-    "records": [
-      
-      { 
-        "user": "nSlided",
-        "link": "#",
-        "percent": 100,
-        "hz": 240
-        
-}
-      
+    "password": "Free to Copy",
+    "records": [   
     ]
-  
 }
