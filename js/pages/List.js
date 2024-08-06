@@ -103,6 +103,9 @@ export default {
                         Achieved the record without using hacks (however, FPS bypass, Click between frames, and Click on Steps is allowed)
                     </p>
                     <p>
+                        All playable gameplay in your level that you submit must be 100% spider. If it recreates another gamemode, it will not be put on the list
+                    </p>
+                    <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
