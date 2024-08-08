@@ -100,31 +100,25 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass, Click between frames, and Click on Steps is allowed)
+                    The level must at least have structuring. No airy layouts.
                     </p>
                     <p>
-                        All playable gameplay in your level that you submit must be 100% spider. If it recreates another gamemode, it will not be put on the list
+                    Levels with decoration must not have overly flashy lights, or anything that might cause seizures (case-to-case).
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                    All playable gameplay in your level that you submit must be 100% spider. If it recreates another gamemode, it will not be put on the list
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                    Levels need to have something that seperates them from the rest. (This isnt required, more of a suggestion because we dont want a bunch of up-down 1 block gap spider challenges).
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                    Challenges must not be unnecessarily unfair, such as using a random trigger to determine if you beat a level, etc. (Random triggers for interesting gameplay is allowed, though).
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall and the completion screen is shown, or the completion will be invalidated.
+                    Using obstructive decoration is allowed, but if you cannot see anything in the challenge, it will not be accepted.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
-                    </p>
-                    <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
-                    </p>
-                    <p>
-                        Once a level falls onto the Legacy List, we will never accept records for said level
+                    Join our discord to learn more and submit records and levels!
                     </p>
                 </div>
             </div>
