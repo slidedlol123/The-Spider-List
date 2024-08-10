@@ -31,6 +31,21 @@
             "link": "#",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "GDChiken11",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Sir_Manface",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "MinnoxMilo",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
