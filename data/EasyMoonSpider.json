@@ -46,6 +46,11 @@
             "user": "MinnoxMilo",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "LithiumBatterys",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
