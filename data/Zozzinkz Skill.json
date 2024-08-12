@@ -17,6 +17,11 @@
             "user": "Aelaexaendaer",
             "percent": 100,
             "hz": 60
+        },
+                {
+            "user": "EndGrain",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
