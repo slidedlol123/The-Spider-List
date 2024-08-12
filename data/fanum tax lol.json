@@ -38,6 +38,11 @@
             "link": "#",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "EndGrain",
+            "percent": 100,
+            "hz": 35
         }
     ]
 }
