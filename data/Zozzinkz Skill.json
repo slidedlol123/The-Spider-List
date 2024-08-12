@@ -22,6 +22,11 @@
             "user": "EndGrain",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "max528XDX",
+            "percent": 100,
+            "hz": 75
         }
     ]
 }
