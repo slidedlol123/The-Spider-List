@@ -1,6 +1,6 @@
 {
     "id": 108863458,
-    "name": "SpiderCrawlingUpArm",
+    "name": "SpiderCrawlingUpLeg",
     "author": "GDChiken11",
     "creators": [],
     "verifier": "GDChiken11",
@@ -17,6 +17,11 @@
             "user": "Aelaexaendaer",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "max528XDX",
+            "percent": 100,
+            "hz": 75
         }
     ]
 }
