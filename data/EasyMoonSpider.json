@@ -56,6 +56,11 @@
             "user": "EndGrain",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "mpop1234",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
