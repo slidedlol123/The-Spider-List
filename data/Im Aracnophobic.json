@@ -12,6 +12,11 @@
         "user": "Aelaexaendaer",
         "percent": 100,
         "hz": 60
-      }
+      },
+        {
+            "user": "0nlyOne",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
