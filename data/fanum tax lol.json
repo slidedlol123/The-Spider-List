@@ -42,7 +42,12 @@
         {
             "user": "EndGrain",
             "percent": 100,
-            "hz": 35
+            "hz": 75
+        },
+        {
+            "user": "0nlyOne",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
