@@ -42,6 +42,11 @@
             "user": "Kivyoo",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "BlanKTM",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
