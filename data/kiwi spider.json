@@ -32,6 +32,11 @@
             "user": "GDChiken11",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "okinixin",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
