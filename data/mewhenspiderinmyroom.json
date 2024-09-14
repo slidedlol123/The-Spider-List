@@ -39,6 +39,11 @@
             "user": "BlanKTM",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Therealfive",
+            "percent": 100,
+            "hz": 60
         }
     ]
 } 
