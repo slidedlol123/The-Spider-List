@@ -38,6 +38,11 @@
             "user": "BlanKTM",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "okinixin",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
