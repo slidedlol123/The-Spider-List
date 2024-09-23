@@ -37,6 +37,11 @@
             "user": "Shroomber",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Therealfive",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
