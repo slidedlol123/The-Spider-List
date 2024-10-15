@@ -50,6 +50,11 @@
             "percent": 100,
             "hz": 60
 
+        },
+        {
+            "user": "netfedex97"
+            "percent": 100,
+            "hz": 144
         }
     ]
 } 
