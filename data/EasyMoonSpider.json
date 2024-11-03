@@ -77,5 +77,11 @@
             "percent": 100,
             "hz": 144
         }
+        {
+            "user": "Allu",
+            "percent": 100,
+            "hz": 60
+      
+        }
     ]
 }
