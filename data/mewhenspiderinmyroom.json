@@ -61,6 +61,12 @@
             "percent": 100,
             "hz": 60
       
+        },
+        {
+            "user": "Kremufka",
+            "percent": 100,
+            "hz": 360
+      
         }
     ]
 } 
