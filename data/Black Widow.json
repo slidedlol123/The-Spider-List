@@ -10,16 +10,19 @@
     "records": [
       {
         "user": "kogut11",
+        "link": "#",
         "percent": 100,
         "hz": 240
       },
       {
           "user": "BlanKTM",
+          "link": "#",
           "percent": 100,
           "hz": 120
       },
         {
             "user": "max528XDX",
+            "link": "#",
             "percent": 100,
             "hz": 75
         }
