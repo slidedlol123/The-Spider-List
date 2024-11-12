@@ -14,12 +14,12 @@
         "percent": 100,
         "hz": 144
         },
-{
-    "user": "ImFeelingGreen",
-    "link": "#",
-    "percent": 100,
-    "hz": 165
-},
+        {
+         "user": "ImFeelingGreen",
+          "link": "#",
+          "percent": 100,
+          "hz": 165
+        },
 
         {
 
@@ -31,7 +31,7 @@
 
                 {
 
-            "user": "Sir_Manface",
+            "user": "Sir Manface",
             "link": "https://youtu.be/kZsrQRyGQbg?si=gn-gPsgs60UTp4os",
             "percent": 100,
             "hz": 120
