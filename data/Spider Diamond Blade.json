@@ -1,6 +1,6 @@
 {   
     "id": 114556475,
-    "name": "Spider Diamond Blade",
+    "name": "spider diamond blade",
     "author": "JaySucksAtGD",
     "creators": [],
     "verifier": "JaySucksAtGD",
@@ -9,7 +9,9 @@
     "password": "Free To Copy",
     "records": [
         {
-      
+            "user": "Aelaexaendaer",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
