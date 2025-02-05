@@ -48,6 +48,11 @@
             "user": "0nlyOne",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Shroomber",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
