@@ -47,6 +47,11 @@
             "user": "netfedex97",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "JaySucks",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
