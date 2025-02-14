@@ -1,8 +1,8 @@
 [
     {
         "role": "owner",
-        "name": "slided_",
-        "link": "https://www.youtube.com/channel/UCTAfRF-PW1u7zitZSPe3eeA"
+        "name": "Aelaexaendaer",
+        "link": "https://www.youtube.com/@AelaexaendaerGD"
     },
     {
         "role": "admin",
@@ -16,8 +16,8 @@
         "link": "#"
     },
     {
-        "role": "admin",
-        "name": "Aelaexaendaer",
-        "link": "https://www.youtube.com/@AelaexaendaerGD"
+        "role": "dev",
+        "name": "slided_",
+        "link": "#"
     }
 ]   
