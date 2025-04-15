@@ -52,6 +52,11 @@
             "user": "JaySucksAtGD",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Lio",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
