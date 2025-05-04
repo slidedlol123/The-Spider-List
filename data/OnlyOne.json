@@ -1,6 +1,6 @@
 {
     "id": 109196786,
-    "name": "OnlyOne",
+    "name": "0nlyOne",
     "author": "Aelaexaendaer",
     "creators": [],
     "verifier": "Aelaexaendaer",
@@ -32,6 +32,12 @@
             "user": "netfedex97",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Shroomber",
+            "percent": 100,
+            "hz": 480
+
         }
     ]
 }
