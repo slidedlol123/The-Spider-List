@@ -17,6 +17,12 @@
             "user": "Aelaexaendaer",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "PassiveAgressiveCuber",
+            "link": "#",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
