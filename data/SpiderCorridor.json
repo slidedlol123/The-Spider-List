@@ -23,6 +23,12 @@
             "user": "BlanKTM",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Eventshappen",
+            "percent": 100,
+            "hz": 60
+      
         }
     ]
 }
