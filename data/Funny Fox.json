@@ -31,6 +31,12 @@
             "percent": 100,
             "hz": 120
       
+        },
+        {
+            "user": "Matsuws",
+            "percent": 100,
+            "hz": 240
+      
         }
     ]
 }
