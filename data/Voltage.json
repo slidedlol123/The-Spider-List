@@ -23,6 +23,12 @@
             "user": "Shroomber",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "SnakeCat9",
+            "percent": 100,
+            "hz":60
+        },
         }
     ]
 }
