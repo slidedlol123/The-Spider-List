@@ -56,6 +56,11 @@
             "user": "Evenshappen",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "crimsomoonight",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
