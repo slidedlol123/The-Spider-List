@@ -1,4 +1,5 @@
-"id": 117683408,
+{
+    "id": 117683408,
     "name": "TEETH",
     "author": "wowza144",
     "creators": [],
@@ -7,4 +8,6 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        }
     ]
+}
