@@ -71,6 +71,11 @@
             "user": "AshleyDiesAlone",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "Alpa",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
