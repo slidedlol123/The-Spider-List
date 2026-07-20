@@ -12,6 +12,11 @@
         "user": "Shroomber",
         "percent": 100,
         "hz": 1920
-    }
+    },
+    {
+        "user": "andrewww",
+        "percent": 100,
+        "hz": 240
+        }
     ]
 }
