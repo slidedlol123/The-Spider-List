@@ -29,7 +29,11 @@
             "user": "Shroomber",
             "percent": 100,
             "hz": 480
-        }
-        
+        },
+        {
+            "user": "andrewww",
+            "percent": 100,
+            "hz": 240
+        } 
     ]
 }
