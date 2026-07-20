@@ -13,6 +13,11 @@
             "link": "#",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "BlanKTM",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
