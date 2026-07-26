@@ -78,6 +78,11 @@
             "user": "Elmeixs",
             "percent": 100,
             "hz": 60
+        },
+        {
+           "user": "Nekwitha",
+           "percent": 100,
+           "hz": 100
         }
     ]
 }
