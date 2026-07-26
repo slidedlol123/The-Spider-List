@@ -37,6 +37,11 @@
            "user": "Nekwitha",
            "percent": 100,
            "hz": 100
+        },
+        {
+           "user": "dashdudecool",
+           "percent": 100,
+           "hz": 360
         }
     ]
 }
