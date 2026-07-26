@@ -42,6 +42,11 @@
            "user": "dashdudecool",
            "percent": 100,
            "hz": 360
+        },
+        {
+           "user": "k1nglert",
+           "percent": 100,
+           "hz": 1000
         }
     ]
 }
