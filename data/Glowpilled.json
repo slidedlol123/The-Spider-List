@@ -47,6 +47,11 @@
            "user": "k1nglert",
            "percent": 100,
            "hz": 1000
+        },
+        {
+           "user": "BlanKTM",
+           "percent": 100,
+           "hz": 120
         }
     ]
 }
