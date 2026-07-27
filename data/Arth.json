@@ -50,6 +50,11 @@
            "user": "dashdudecool",
            "percent": 100,
            "hz": 360
+        },
+        {
+           "user": "BlanKTM",
+           "percent": 100,
+           "hz": 120
         }
     ]
 }
