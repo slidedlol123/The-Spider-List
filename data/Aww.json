@@ -42,6 +42,12 @@
             "user": "BlanKTM",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Evenshappen",
+            "percent": 100,
+            "hz": 240
+      
         }
     ]
 }
