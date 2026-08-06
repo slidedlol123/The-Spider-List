@@ -48,6 +48,11 @@
             "percent": 100,
             "hz": 240
       
-        }
+        },
+        {
+           "user": "andrewww",
+           "percent": 100,
+           "hz": 240
+       }
     ]
 }
