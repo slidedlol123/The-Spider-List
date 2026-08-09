@@ -8,20 +8,25 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-    {
-        "user": "andrewww",
-        "percent": 100,
-        "hz": 240
-      },
-    {
-        "user": "BlanKTM",
-        "percent": 100,
-        "hz": 120
-      },
-    {
-        "user": "TheasygameGD",
-        "percent": 100,
-        "hz": 360
-      }
+        {
+            "user": "andrewww",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BlanKTM",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+           "user": "TheasygameGD",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Evenshappen",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
