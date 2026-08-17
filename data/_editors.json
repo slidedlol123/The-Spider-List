@@ -17,6 +17,12 @@
     },
 
     {
+        "role": "admin",
+        "name": "Shroomber",
+        "link": "#"
+    },
+
+    {
         "role": "dev",
         "name": "nSlided",
         "link": "#"
