@@ -28,6 +28,11 @@
             "user": "SnakeCat9",
             "percent": 100,
             "hz":60
+        },
+        {
+            "user": "andrewww",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
