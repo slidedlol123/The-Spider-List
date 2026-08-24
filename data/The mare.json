@@ -1,0 +1,17 @@
+{
+    "id": 147450615,
+    "name": "The mare",
+    "author": "Tanner GD",
+    "creators": [ ],
+    "verifier": "Tanner GD",
+    "verification": "https://youtu.be/jgqjX-xGCs8",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "BlanKTM",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
