@@ -53,6 +53,11 @@
             "user": "dashdudecool",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "andrewww",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
