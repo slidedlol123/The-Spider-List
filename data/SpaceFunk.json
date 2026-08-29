@@ -38,6 +38,26 @@
             "user": "BansheeGD",
             "percent": 100,
             "hz": 165
+        },
+        {
+            "user": "APurpleSpider",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "trag1c",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Mittens",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "kylelikesvr",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
