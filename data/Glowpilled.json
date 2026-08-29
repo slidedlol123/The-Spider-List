@@ -58,5 +58,10 @@
             "percent": 100,
             "hz": 60
         }
+        {
+            "user": "Mittens",
+            "percent": 100,
+            "hz": 50
+        }
     ]
 }
