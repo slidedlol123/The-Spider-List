@@ -71,7 +71,7 @@ export default {
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
                             <td class="hz">
-                                <p>{{ record.hz }}FPS</p>
+                                <p>{{ record.hz }} FPS</p>
                             </td>
                         </tr>
                     </table>
@@ -106,7 +106,7 @@ export default {
                     Levels with decoration must not have overly flashy lights, or anything that might cause seizures (case-to-case).
                     </p>
                     <p>
-                    All playable gameplay in your level that you submit must be 100% spider. If it recreates another gamemode, it will not be put on the list
+                    All playable gameplay in your level that you submit must be 100% spider. If it plays as another gamemode, it will not be put on the list
                     </p>
                     <p>
                     Levels need to have something that seperates them from the rest. (This isnt required, more of a suggestion because we dont want a bunch of up-down 1 block gap spider challenges).
