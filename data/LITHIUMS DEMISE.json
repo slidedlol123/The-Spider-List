@@ -68,6 +68,11 @@
            "user": "dashdudecool",
            "percent": 100,
            "hz": 360
+        },
+        {
+            "user": "APurpleSpider",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
