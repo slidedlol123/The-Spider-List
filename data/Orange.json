@@ -1,0 +1,17 @@
+{
+    "id": 148205207,
+    "name": "Orange",
+    "author": "Evenshappen",
+    "creators": ["Evenshappen"],
+    "verifier": "Evenshappen",
+    "verification": "https://youtu.be/Yfh9jhom1nw",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "BlanKTM",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
