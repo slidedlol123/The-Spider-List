@@ -37,6 +37,11 @@
             "user": "Elmeixs",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "AYuckiGuy",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
