@@ -42,6 +42,11 @@
             "user": "AYuckiGuy",
             "percent": 100,
             "hz": 240
+        },
+        {
+           "user": "k1nglert",
+           "percent": 100,
+           "hz": 500
         }
     ]
 }
