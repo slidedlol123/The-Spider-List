@@ -6,7 +6,7 @@
     "verifier": "BlanKTM",
     "verification": "https://www.youtube.com/watch?v=g8fJivpEVCM",
     "percentToQualify": "100",
-    "password": "?/100",
+    "password": "60/100",
     "records": [
         {
             "user": "Aelaexaendaer",
@@ -27,6 +27,11 @@
             "user": "Elmeixs",
             "percent": 100,
             "hz": 60
+        },
+        {
+           "user": "k1nglert",
+           "percent": 100,
+           "hz": 500
         }
     ]
 }
