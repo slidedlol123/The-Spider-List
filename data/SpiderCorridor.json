@@ -7,7 +7,7 @@
     "verifier": "max528XDX",
     "verification": "https://youtu.be/YGuw3FX8q14",
     "percentToQualify": 100,
-    "password": "?/100",
+    "password": "68/100",
     "records": [
         {
             "user": "kogut11",
@@ -74,6 +74,11 @@
             "user": "Elgato246",
             "percent": 100,
             "hz": 60
+        },
+        {
+           "user": "k1nglert",
+           "percent": 100,
+           "hz": 500
         }
     ]
 }
