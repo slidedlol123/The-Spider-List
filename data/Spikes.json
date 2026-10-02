@@ -42,6 +42,11 @@
            "user": "k1nglert",
            "percent": 100,
            "hz": 500
+        },
+        {
+          "user": "TODO9999",
+          "percent": 100,
+          "hz": 500
         }
     ]
 }
