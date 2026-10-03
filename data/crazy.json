@@ -6,7 +6,7 @@
     "verifier": "kogut11",
     "verification": "https://youtu.be/1LFcU3K9BpA",
     "percentToQualify": "100",
-    "password": "?/100",
+    "password": "10/100",
     "records": [
         {
             "user": "Aelaexaendaer",
@@ -17,6 +17,11 @@
             "user": "andrewww",
             "percent": 100,
             "hz": 240
+        },
+        {
+           "user": "k1nglert",
+           "percent": 100,
+           "hz": 1000
         }
     ]
 }
