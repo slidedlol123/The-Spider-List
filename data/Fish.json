@@ -6,7 +6,7 @@
     "verifier": "Evenshappen",
     "verification": "https://www.youtube.com/watch?v=xiRjqHk3YTk",
     "percentToQualify": 100,
-    "password": "?/100",
+    "password": "50/100",
     "records": [
         {
             "user": "Shroomber",
@@ -17,6 +17,11 @@
             "user": "andrewww",
             "percent": 100,
             "hz": 240
+        },
+        {
+           "user": "k1nglert",
+           "percent": 100,
+           "hz": 1000
         }
     ]
 }
