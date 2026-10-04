@@ -6,7 +6,7 @@
     "verifier": "Therealfive",
     "verification": "https://youtube.com/shorts/vDq3QpOno9Y?si=EEAjzkNqOOFC-FqR",
     "percentToQualify": "100",
-    "password": "?/100",
+    "password": "70/100",
     "records": [
         {
             "user": "max528XDX",
@@ -58,6 +58,11 @@
             "user": "andrewww",
             "percent": 100,
             "hz": 240
+        },
+        {
+           "user": "k1nglert",
+           "percent": 100,
+           "hz": 1000
         }
     ]
 }
