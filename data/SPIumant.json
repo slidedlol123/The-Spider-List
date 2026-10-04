@@ -1,0 +1,22 @@
+{
+    "id": 149952814,
+    "name": "SPIumant",
+    "author": "TODO9999",
+    "creators": [ ],
+    "verifier": "TODO9999",
+    "verification": "https://youtu.be/wTnrNS_TRQI",
+    "percentToQualify": "100",
+    "password": "?/100",
+    "records": [
+        {
+           "user": "k1nglert",
+           "percent": 100,
+           "hz": 1000
+        },
+        {
+            "user": "andrewww",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
