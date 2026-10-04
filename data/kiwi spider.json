@@ -6,7 +6,7 @@
     "verifier": "Therealfive",
     "verification": "https://youtu.be/1rYtfp5xCrY?si=G7Usz5riV-s8bO6Y",
     "percentToQualify": "100",
-    "password": "Free To Copy",
+    "password": "80/100",
     "records": [
         {
             "user": "Aelaexaendaer",
@@ -67,6 +67,11 @@
             "user": "dashdudecool",
             "percent": 100,
             "hz": 360
+        },
+        {
+           "user": "k1nglert",
+           "percent": 100,
+           "hz": 1000
         }
     ]
 }
