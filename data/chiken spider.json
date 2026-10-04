@@ -67,6 +67,11 @@
             "user": "kylelikesvr",
             "percent": 100,
             "hz": 240
+        },
+        {
+          "user": "TODO9999",
+          "percent": 100,
+          "hz": 500
         }
     ]
 }
