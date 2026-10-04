@@ -7,7 +7,7 @@
     "verifier": "Therealfive",
     "verification": "https://youtu.be/JJTMAJZUSvo?si=rN9G8C6VtbKR-i2N",
     "percentToQualify": 100,
-    "password": "Free To Copy",
+    "password": "40/100",
     "records": [
         {
             "user": "Aelaexaendaer",
@@ -35,6 +35,11 @@
             "user": "andrewww",
             "percent": 100,
             "hz": 240
+        },
+        {
+           "user": "k1nglert",
+           "percent": 100,
+           "hz": 1000
         }
     ]
 }
