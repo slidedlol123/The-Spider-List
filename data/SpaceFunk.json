@@ -6,7 +6,7 @@
     "verifier": "VIVATAIOLLUIE",
     "verification": "https://www.youtube.com/watch?v=d5BlEN3ol6I",
     "percentToQualify": "100",
-    "password": "?/100",
+    "password": "75/100",
     "records": [
     {
         "user": "Shroomber",
@@ -63,6 +63,11 @@
             "user": "Elmeixs",
             "percent": 100,
             "hz": 60
+        },
+        {
+           "user": "k1nglert",
+           "percent": 100,
+           "hz": 1000
         }
     ]
 }
