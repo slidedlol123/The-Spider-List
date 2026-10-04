@@ -6,7 +6,7 @@
     "verifier": "Tanner GD",
     "verification": "https://youtu.be/0cA7EPkGPzM",
     "percentToQualify": "100",
-    "password": "65/100",
+    "password": "58/100",
     "records": [
         {
             "user": "BlanKTM",
@@ -47,6 +47,11 @@
             "user": "AverlynGMD",
             "percent": 100,
             "hz": 240
+        },
+        {
+           "user": "k1nglert",
+           "percent": 100,
+           "hz": 1000
         }
     ]
 }
