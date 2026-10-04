@@ -6,7 +6,7 @@
     "verifier": "GDChiken11",
     "verification": "https://youtu.be/ijo1G6Mwe-M",
     "percentToQualify": "100",
-    "password": "72/100",
+    "password": "75/100",
     "records": [
       {
         "user": "kogut11",
@@ -108,6 +108,11 @@
             "user": "Mittens",
             "percent": 100,
             "hz": 60
+        },
+        {
+           "user": "k1nglert",
+           "percent": 100,
+           "hz": 1000
         }
     ]
 }
