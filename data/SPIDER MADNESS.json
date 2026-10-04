@@ -1,0 +1,22 @@
+{
+    "id": 149963840,
+    "name": "SPIDER MADNESS",
+    "author": "kylelikesvr",
+    "creators": [],
+    "verifier": "Mittens",
+    "verification": "https://www.youtube.com/watch?v=9ctl804kLKc",
+    "percentToQualify": "100",
+    "password": "70/100",
+    "records": [
+        {
+            "user": "BlanKTM",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "trag1c",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
