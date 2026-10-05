@@ -6,7 +6,17 @@
     "verifier": "k1nglert",
     "verification": "https://m.youtube.com/watch?v=Gu6FKgI11Fs",
     "percentToQualify": "100",
-    "password": "?/100",
+    "password": "46/100",
     "records": [
+        {
+           "user": "Tanner GD",
+           "percent": 100,
+           "hz": 240
+        },
+        {
+           "user": "BlanKTM",
+           "percent": 100,
+           "hz": 165
+        }
     ]
 }
