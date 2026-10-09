@@ -6,7 +6,7 @@
     "verifier": "max528XDX",
     "verification": "https://youtu.be/yLRWVjWFVa0?si=fZuEPZb9_lbk2kU_",
     "percentToQualify": 100,
-    "password": "?/100",
+    "password": "66/100",
     "records": [
         {
             
@@ -34,6 +34,11 @@
            "user": "BlanKTM",
            "percent": 100,
            "hz": 120
+        },
+        {
+           "user": "k1nglert",
+           "percent": 100,
+           "hz": 1000
         }
     ]
 }
