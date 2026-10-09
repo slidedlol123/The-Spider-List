@@ -6,7 +6,7 @@
     "verifier": "EndGrain",
     "verification": "https://youtu.be/za8DPm52nCY",
     "percentToQualify": 100,
-    "password": "?/100",
+    "password": "70/100",
     "records": [
         {
             "user": "Aelaexaendaer",
@@ -37,6 +37,11 @@
             "user": "andrewww",
             "percent": 100,
             "hz": 240
+        },
+        {
+           "user": "k1nglert",
+           "percent": 100,
+           "hz": 1000
         }
     ]
 }
