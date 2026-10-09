@@ -6,7 +6,12 @@
     "verifier": "APurpleSpider",
     "verification": "https://youtu.be/51S7Cs7ut04?is=9juw7C4cHpi-DAok",
     "percentToQualify": "100",
-    "password": "?/100",
+    "password": "50/100",
     "records": [
+        {
+            "user": "andrewww",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
