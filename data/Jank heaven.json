@@ -1,0 +1,17 @@
+{
+    "id": 150021485,
+    "name": "Jank heaven",
+    "author": "Qu33nl3rt",
+    "creators": [ ],
+    "verifier": "k1nglert",
+    "verification": "https://www.youtube.com/watch?v=r3xNAJB1b_w",
+    "percentToQualify": "100",
+    "password": "70/100",
+    "records": [
+        {
+           "user": "BlanKTM",
+           "percent": 100,
+           "hz": 165
+        }
+    ]
+}
