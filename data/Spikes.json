@@ -1,52 +1,12 @@
 {
-    "id": 147263308,
-    "name": "Spikes",
+    "id": 149985302,
+    "name": "spikes x",
     "author": "Tanner GD",
     "creators": [ ],
-    "verifier": "Tanner GD",
-    "verification": "https://youtu.be/s7ku_T-vom0",
+    "verifier": "BlanKTM",
+    "verification": "https://youtu.be/F8qILr_MVio",
     "percentToQualify": "100",
-    "password": "45/100",
+    "password": "?/100",
     "records": [
-        {
-            "user": "BlanKTM",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "andrewww",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Evenshappen",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Elmeixs",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Crimsomoonight",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "AverlynGMD",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-           "user": "k1nglert",
-           "percent": 100,
-           "hz": 500
-        },
-        {
-          "user": "TODO9999",
-          "percent": 100,
-          "hz": 500
-        }
     ]
 }
