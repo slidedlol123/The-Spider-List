@@ -1,0 +1,22 @@
+{
+    "id": 149862954,
+    "name": "coconut spider",
+    "author": "TODO9999",
+    "creators": [ ],
+    "verifier": "TODO9999",
+    "verification": "https://youtu.be/AbBRZXKKQmE",
+    "percentToQualify": "100",
+    "password": "70/100",
+    "records": [
+        {
+            "user": "andrewww",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BlanKTM",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}
