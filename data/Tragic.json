@@ -6,7 +6,12 @@
     "verifier": "rogatek",
     "verification": "https://youtu.be/PAjTS6JycXg",
     "percentToQualify": "100",
-    "password": "?/100",
+    "password": "55/100",
     "records": [
+        {
+           "user": "andrewww",
+           "percent": 100,
+           "hz": 240
+       }
     ]
 }
