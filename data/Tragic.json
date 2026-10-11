@@ -9,14 +9,14 @@
     "password": "58/100",
     "records": [
         {
-           "user": "andrewww",
-           "percent": 100,
-           "hz": 240
-       },
-        {
            "user": "k1nglert",
            "percent": 100,
            "hz": 1000
-        }
+        },
+        {
+           "user": "andrewww",
+           "percent": 100,
+           "hz": 240
+       }
     ]
 }
