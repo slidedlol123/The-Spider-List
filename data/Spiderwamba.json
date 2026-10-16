@@ -6,7 +6,7 @@
     "verifier": "Crimsomoonight",
     "verification": "https://youtu.be/6nnVnmbb_TI?si=jh4C7D1cjjfXwcGF",
     "percentToQualify": "100",
-    "password": "83/100",
+    "password": "42/100",
     "records": [
          {
            "user": "BlanKTM",
@@ -37,6 +37,11 @@
            "user": "k1nglert",
            "percent": 100,
            "hz": 500
+        },
+        {
+           "user": "Tanner GD",
+           "percent": 100,
+           "hz": 240
         }
     ]
 }
