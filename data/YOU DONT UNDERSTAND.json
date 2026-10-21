@@ -6,7 +6,7 @@
     "verifier": "kogut11",
     "verification": "https://youtu.be/NUgV6RLx2jA?si=ysc8qaNNMVTVLJZ2",
     "percentToQualify": "100",
-    "password": "30/100",
+    "password": "54/100",
     "records": [
         {
             "user": "BlanKTM",
@@ -33,6 +33,11 @@
            "user": "k1nglert",
            "percent": 100,
            "hz": 1000
+        },
+        {
+            "user": "Lonhi",
+            "percent": 100,
+            "hz": 999
         }
     ]
 }
