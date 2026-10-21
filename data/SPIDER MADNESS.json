@@ -6,7 +6,7 @@
     "verifier": "Mittens",
     "verification": "https://www.youtube.com/watch?v=9ctl804kLKc",
     "percentToQualify": "100",
-    "password": "82/100",
+    "password": "81/100",
     "records": [
         {
             "user": "BlanKTM",
@@ -27,6 +27,11 @@
             "user": "k1nglert",
             "percent": 100,
             "hz": 1000
+        },
+        {
+            "user": "Lonhi",
+            "percent": 100,
+            "hz": 999
         }
     ]
 }
