@@ -6,7 +6,7 @@
     "verifier": "max528XDX",
     "verification": "https://youtu.be/FCN-wS3jRsg",
     "percentToQualify": "100",
-    "password": "29/100",
+    "password": "42/100",
     "records": [
         {
             "user": "Aelaexaendaer",
@@ -32,6 +32,11 @@
             "user": "Lonhi",
             "percent": 100,
             "hz": 999
+        },
+        {
+           "user": "k1nglert",
+           "percent": 100,
+           "hz": 1000
         }
     ]
 }
