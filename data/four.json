@@ -6,7 +6,7 @@
     "verifier": "Evenshappen",
     "verification": "https://youtu.be/X-FSM_46ca4",
     "percentToQualify": 100,
-    "password": "?/100",
+    "password": "10/100",
     "records": [
         {
             "user": "Elmeixs",
@@ -22,6 +22,11 @@
             "user": "andrewww",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "k1nglert",
+            "percent": 100,
+            "hz": 1000
         }
     ]
 }
