@@ -4,11 +4,11 @@
     "author": "EndGrain",
     "creators": [],
     "verifier": "EndGrain",
-    "verification": "https://www.youtube.com/watch?v=39NoARkh_D8",
+    "verification": "https://youtu.be/HgSBLm5zex4",
     "percentToQualify": 100,
     "password": "59/100",
     "records": [
-        {
+        {https://youtu.be/HgSBLm5zex4
             "user": "kogut11",
             "percent": 100,
             "hz": 240
@@ -57,6 +57,11 @@
            "user": "k1nglert",
            "percent": 100,
            "hz": 1000
+        },
+        {
+           "user": "Lonhi",
+           "percent": 100,
+           "hz": 999
         }
     ]      
 }
