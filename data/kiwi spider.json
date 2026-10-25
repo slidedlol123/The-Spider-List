@@ -87,6 +87,11 @@
           "user": "rogatek",
           "percent": 100,
           "hz": 144
+        },
+        {
+           "user": "MaTaN143",
+           "percent": 100,
+           "hz": 360
         }
     ]
 }
