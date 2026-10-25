@@ -6,7 +6,12 @@
     "verifier": "k1nglert",
     "verification": "https://www.youtube.com/watch?v=R2G_t5gGHL0",
     "percentToQualify": "100",
-    "password": "?/100",
+    "password": "90/100",
     "records": [
+        {
+          "user": "TODO9999",
+          "percent": 100,
+          "hz": 1000
+        }
     ]
 }
