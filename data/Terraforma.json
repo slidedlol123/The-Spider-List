@@ -62,6 +62,11 @@
            "user": "Lonhi",
            "percent": 100,
            "hz": 999
+        },
+        {
+            "user": "lumihrt",
+            "percent": 100,
+            "hz": 240
         }
     ]      
 }
