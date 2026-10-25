@@ -6,7 +6,7 @@
     "verifier": "Lonhi",
     "verification": "https://youtu.be/zZbvGIZv6v4",
     "percentToQualify": "100",
-    "password": "94/100",
+    "password": "77/100",
     "records": [
         {
            "user": "BansheeGD",
@@ -17,6 +17,11 @@
            "user": "k1nglert",
            "percent": 100,
            "hz": 1000
+        },
+        {
+            "user": "andrewww",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
