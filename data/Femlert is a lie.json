@@ -6,12 +6,17 @@
     "verifier": "FvloFvli",
     "verification": "https://youtu.be/PiqrYtqgQMg",
     "percentToQualify": "100",
-    "password": "71/100",
+    "password": "65/100",
     "records": [
         {
            "user": "k1nglert",
            "percent": 100,
            "hz": 1000
+        },
+        {
+            "user": "andrewww",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
