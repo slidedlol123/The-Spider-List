@@ -82,6 +82,11 @@
             "user": "Elmeixs",
             "percent": 100,
             "hz": 60
+        },
+        {
+           "user": "StarrrYT",
+           "percent": 100,
+           "hz": 480
         }
     ]
 }
