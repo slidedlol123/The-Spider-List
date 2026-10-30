@@ -17,6 +17,11 @@
           "user": "TODO9999",
           "percent": 100,
           "hz": 1000
+        },
+        {
+           "user": "StarrrYT",
+           "percent": 100,
+           "hz": 480
         }
     ]
 }
