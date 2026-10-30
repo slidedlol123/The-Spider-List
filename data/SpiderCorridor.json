@@ -84,6 +84,11 @@
           "user": "Patryxx",
           "percent": 100,
           "hz": 60
+        },
+        {
+           "user": "FvloFvli",
+           "percent": 100,
+           "hz": 1000
         }
     ]
 }
