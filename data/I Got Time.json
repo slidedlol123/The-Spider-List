@@ -6,7 +6,12 @@
     "verifier": "Lonhi",
     "verification": "https://youtu.be/pduNqcg2L1c?si=XcBWaTD7tJNJG73V",
     "percentToQualify": "100",
-    "password": "?/100",
+    "password": "37/100",
     "records": [
+        {
+           "user": "k1nglert",
+           "percent": 100,
+           "hz": 1000
+        }
     ]
 }
