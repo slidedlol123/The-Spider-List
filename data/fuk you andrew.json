@@ -6,7 +6,12 @@
     "verifier": "Aelaexaendaer",
     "verification": "https://youtu.be/cyhf932jhuY",
     "percentToQualify": "100",
-    "password": "?/100",
+    "password": "90/100",
     "records": [
+        {
+            "user": "Lonhi",
+            "percent": 100,
+            "hz": 999
+        }
     ]
 }
