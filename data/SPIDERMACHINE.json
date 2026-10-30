@@ -6,7 +6,12 @@
     "verifier": "andrewww",
     "verification": "https://www.youtube.com/watch?v=yLUC48Jm840",
     "percentToQualify": "100",
-    "password": "?/100",
+    "password": "10/100",
     "records": [
+        {
+           "user": "BlanKTM",
+           "percent": 100,
+           "hz": 165
+        }
     ]
 }
