@@ -6,7 +6,7 @@
     "verifier": "futuristicfire",
     "verification": "https://youtu.be/d1xicCSXCqE",
     "percentToQualify": "100",
-    "password": "?/100",
+    "password": "65/100",
     "records": [
         {
             "user": "kogut11",
@@ -22,6 +22,11 @@
             "user": "Evenshappen",
             "percent": 100,
             "hz": 240
+        },
+        {
+           "user": "k1nglert",
+           "percent": 100,
+           "hz": 1000
         }
     ]
 }
