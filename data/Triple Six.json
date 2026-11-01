@@ -6,7 +6,7 @@
     "verifier": "Asharctic",
     "verification": "https://www.youtube.com/watch?v=IIvZwzyzIzc",
     "percentToQualify": "100",
-    "password": "?/100",
+    "password": "60/100",
     "records": [
         {
             "user": "andrewww",
@@ -22,6 +22,11 @@
             "user": "TheRandomnesss",
             "percent": 100,
             "hz": 240
+        },
+        {
+           "user": "BlanKTM",
+           "percent": 100,
+           "hz": 165
         }
     ]
 }
