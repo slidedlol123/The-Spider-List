@@ -17,6 +17,11 @@
             "user": "Lonhi",
             "percent": 100,
             "hz": 999
+        },
+        {
+          "user": "TODO9999",
+          "percent": 100,
+          "hz": 1000
         }
     ]
 }
