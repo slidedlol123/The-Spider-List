@@ -63,6 +63,11 @@
             "user": "Lonhi",
             "percent": 100,
             "hz": 999
+        },
+        {
+           "user": "Stirling",
+           "percent": 100,
+           "hz": 240
         }
     ]
 }
