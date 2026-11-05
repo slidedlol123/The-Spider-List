@@ -67,6 +67,11 @@
             "user": "AYuckiGuy",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Lonhi",
+            "percent": 100,
+            "hz": 999
         }
     ]
 }
