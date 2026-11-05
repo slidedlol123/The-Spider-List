@@ -6,7 +6,7 @@
     "verifier": "TODO9999",
     "verification": "https://youtu.be/VXhVxe6MchI",
     "percentToQualify": "100",
-    "password": "70/100",
+    "password": "66/100",
     "records": [
         {
            "user": "k1nglert",
@@ -25,6 +25,11 @@
         },
         {
           "user": "Patryxx",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "APurpleSpider",
           "percent": 100,
           "hz": 60
         }
