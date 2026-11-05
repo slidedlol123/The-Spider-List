@@ -6,7 +6,7 @@
     "verifier": "max528XDX",
     "verification": "https://youtu.be/H8zTlDhsPPQ",
     "percentToQualify": "100",
-    "password": "55/100",
+    "password": "61/100",
     "records": [
         {
             "user": "kogut11",
@@ -59,6 +59,11 @@
             "user": "Lonhi",
             "percent": 100,
             "hz": 999
+        },
+        {
+          "user": "APurpleSpider",
+          "percent": 100,
+          "hz": 60
         }
     ]
 }
