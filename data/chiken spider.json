@@ -97,6 +97,11 @@
           "user": "APurpleSpider",
           "percent": 100,
           "hz": 60
+        },
+        {
+           "user": "ghostium",
+           "percent": 100,
+           "hz": 60
         }
     ]
 }
