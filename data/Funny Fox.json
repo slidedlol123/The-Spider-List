@@ -7,7 +7,7 @@
     "verifier": "Shroomber",
     "verification": "https://m.youtube.com/watch?v=A9yrEypii_g",
     "percentToQualify": 100,
-    "password": "80/100",
+    "password": "78/100",
     "records": [
         {
             "user": "Aelaexaendaer",
@@ -131,6 +131,11 @@
            "user": "StarrrYT",
            "percent": 100,
            "hz": 480
+        },
+        {
+          "user": "APurpleSpider",
+          "percent": 100,
+          "hz": 60
         }
     ]
 }
