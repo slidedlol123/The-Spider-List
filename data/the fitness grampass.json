@@ -6,7 +6,7 @@
     "verifier": "Therealfive",
     "verification": "https://youtube.com/shorts/vDq3QpOno9Y?si=EEAjzkNqOOFC-FqR",
     "percentToQualify": "100",
-    "password": "70/100",
+    "password": "63/100",
     "records": [
         {
             "user": "max528XDX",
@@ -108,6 +108,11 @@
           "user": "rogatek",
           "percent": 100,
           "hz": 144
+        },
+        {
+          "user": "APurpleSpider",
+          "percent": 100,
+          "hz": 60
         }
     ]
 }
