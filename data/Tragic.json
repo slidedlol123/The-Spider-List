@@ -39,19 +39,14 @@
           "hz": 60
         },
         {
-          "user": "FvloFvli",
+          "user": "Shroomber",
           "percent": 100,
-          "hz": 1000
+          "hz": 240
         },
         {
-           "user": "StarrrYT",
-           "percent": 100,
-           "hz": 480
-        },
-        {
-            "user": "Shroomber",
+            "user": "APurpleSpider",
             "percent": 100,
-            "hz": 240
+            "hz": 60
         }
     ]
 }
