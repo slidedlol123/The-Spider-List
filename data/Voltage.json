@@ -7,7 +7,7 @@
     "verifier": "netfedex97",
     "verification": "https://youtu.be/LvK-3JRiLFk",
     "percentToQualify": 100,
-    "password": "81/100",
+    "password": "85/100",
     "records": [
         {
             "user": "Aelaexaendaer",
@@ -63,6 +63,11 @@
             "user": "Lonhi",
             "percent": 100,
             "hz": 999
+        },
+        {
+          "user": "APurpleSpider",
+          "percent": 100,
+          "hz": 60
         }
     ]
 }
