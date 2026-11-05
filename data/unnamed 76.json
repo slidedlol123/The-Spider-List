@@ -7,7 +7,7 @@
     "verifier": "Therealfive",
     "verification": "https://youtu.be/JJTMAJZUSvo?si=rN9G8C6VtbKR-i2N",
     "percentToQualify": 100,
-    "password": "52/100",
+    "password": "48/100",
     "records": [
         {
             "user": "Aelaexaendaer",
@@ -55,6 +55,11 @@
             "user": "Lonhi",
             "percent": 100,
             "hz": 999
+        },
+        {
+          "user": "APurpleSpider",
+          "percent": 100,
+          "hz": 60
         }
     ]
 }
