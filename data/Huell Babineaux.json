@@ -6,7 +6,12 @@
     "verifier": "BlanKTM",
     "verification": "https://youtu.be/JUH9lfQ4k0k",
     "percentToQualify": "100",
-    "password": "?/100",
+    "password": "94/100",
     "records": [
+        {
+            "user": "Lonhi",
+            "percent": 100,
+            "hz": 999
+        }
     ]
 }
