@@ -6,7 +6,7 @@
     "verifier": "Therealfive",
     "verification": "https://youtu.be/c0HNga0tiN4?si=GB59fV3NRq3MxYv6",
     "percentToQualify": 100,
-    "password": "60/100",
+    "password": "55/100",
     "records": [
         {
             "user": "GDChiken11",
@@ -92,6 +92,11 @@
           "user": "rogatek",
           "percent": 100,
           "hz": 144
+        },
+        {
+          "user": "APurpleSpider",
+          "percent": 100,
+          "hz": 60
         }
     ]
 }
