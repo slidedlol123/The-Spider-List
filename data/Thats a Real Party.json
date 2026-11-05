@@ -6,7 +6,7 @@
     "verifier": "Gainia",
     "verification": "https://www.youtube.com/watch?v=rGpxVpjNXHg",
     "percentToQualify": "100",
-    "password": "59/100",
+    "password": "70/100",
     "records": [
         {
             "user": "max528XDX",
@@ -72,6 +72,11 @@
             "user": "Lonhi",
             "percent": 100,
             "hz": 999
+        },
+        {
+          "user": "APurpleSpider",
+          "percent": 100,
+          "hz": 60
         }
     ]
 }
