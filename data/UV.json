@@ -52,6 +52,11 @@
            "user": "MaTaN143",
            "percent": 100,
            "hz": 360
+        },
+        {
+            "user": "Lonhi",
+            "percent": 100,
+            "hz": 999
         }
     ]
 }
