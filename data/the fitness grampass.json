@@ -103,6 +103,11 @@
             "user": "Lonhi",
             "percent": 100,
             "hz": 999
+        },
+        {
+          "user": "rogatek",
+          "percent": 100,
+          "hz": 144
         }
     ]
 }
