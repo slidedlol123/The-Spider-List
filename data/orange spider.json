@@ -6,7 +6,7 @@
     "verifier": "Tanner GD",
     "verification": "https://youtu.be/GD7sv6vyS78",
     "percentToQualify": "100",
-    "password": "77/100",
+    "password": "74/100",
     "records": [
         {
             "user": "andrewww",
@@ -27,6 +27,11 @@
            "user": "MaTaN143",
            "percent": 100,
            "hz": 360
+        },
+        {
+            "user": "Lonhi",
+            "percent": 100,
+            "hz": 999
         }
     ]
 }
