@@ -6,7 +6,7 @@
     "verifier": "BlanKTM",
     "verification": "https://youtu.be/vRBgd21s4Pg",
     "percentToQualify": "100",
-    "password": "100/100",
+    "password": "92/100",
     "records": [
         {
             "user": "andrewww",
@@ -22,6 +22,11 @@
            "user": "k1nglert",
            "percent": 100,
            "hz": 1000
+        },
+        {
+            "user": "Lonhi",
+            "percent": 100,
+            "hz": 999
         }
     ]
 }
