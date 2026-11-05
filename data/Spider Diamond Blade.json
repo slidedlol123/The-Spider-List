@@ -6,7 +6,7 @@
     "verifier": "JaySucksAtGD",
     "verification": "https://youtu.be/REA0nA-LXoA?si=yeIypYgP4KSFE_Sv",
     "percentToQualify": 100,
-    "password": "66/100",
+    "password": "61/100",
     "records": [
         {
             "user": "Aelaexaendaer",
@@ -52,6 +52,11 @@
             "user": "Lonhi",
             "percent": 100,
             "hz": 999
+        },
+        {
+          "user": "APurpleSpider",
+          "percent": 100,
+          "hz": 60
         }
     ]
 }
