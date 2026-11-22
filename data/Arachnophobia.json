@@ -29,6 +29,11 @@
            "user": "k1nglert",
            "percent": 100,
            "hz": 1000
+        },
+        {
+            "user": "Evenshappen",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
