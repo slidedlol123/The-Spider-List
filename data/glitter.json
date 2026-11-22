@@ -17,6 +17,11 @@
            "user": "BlanKTM",
            "percent": 100,
            "hz": 165
+        },
+        {
+           "user": "ghostium",
+           "percent": 100,
+           "hz": 60
         }
     ]
 }
