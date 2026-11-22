@@ -9,6 +9,11 @@
     "password": "?/100",
     "records": [
         {
+          "user": "TODO9999",
+          "percent": 100,
+          "hz": 500
+        },
+        {
             "user": "andrewww",
             "percent": 100,
             "hz": 240
