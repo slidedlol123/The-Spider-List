@@ -57,6 +57,11 @@
           "user": "APurpleSpider",
           "percent": 100,
           "hz": 60
+        },
+        {
+            "user": "groupnil",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
