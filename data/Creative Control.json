@@ -17,6 +17,11 @@
           "user": "rogatek",
           "percent": 100,
           "hz": 144
+        },
+        {
+            "user": "andrewww",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
