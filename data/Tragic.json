@@ -57,6 +57,11 @@
             "user": "groupnil",
             "percent": 100,
             "hz": 480
+        },
+        {
+           "user": "Silly Goober",
+           "percent": 100,
+           "hz": 18000
         }
     ]
 }
