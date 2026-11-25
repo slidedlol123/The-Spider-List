@@ -22,6 +22,11 @@
            "user": "ghostium",
            "percent": 100,
            "hz": 60
+        },
+        {
+            "user": "Trashgnome",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
