@@ -22,6 +22,11 @@
            "user": "Stirling",
            "percent": 100,
            "hz": 240
+        },
+        {
+            "user": "Trashgnome",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
